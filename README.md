@@ -5,17 +5,17 @@
 ##FastAPI SQLite Integration
 This project demonstrates a simple CRUD (Create, Read, Update, Delete) API using FastAPI framework with SQLite database integration. It allows managing customers, items, and orders.
 
-##Features
+##Features:
 •	Create, read, update, and delete customers
 •	Create, read, update, and delete items
 •	Create and read orders
 
-##Prerequisites
+##Prerequisites:
 •	Python 3.7 or later installed
 •	Virtual environment setup
 •	Installation
 
-##Steps for Excution:
+##Steps for Execution:
  1.Create a virtual environment 
     •	python -m venv venv
  2.Activate the virtual environment:
